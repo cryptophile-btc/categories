@@ -8,32 +8,9 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"],
-img[alt*="Tag"],
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
+## COLDCARDを公式サイトからダイレクトに手に入れよう！
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-### COLDCARDを公式サイトからダイレクトに手に入れよう！
+<div><button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/katakoto">@katakoto</a></div>
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  15分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -43,20 +20,20 @@ $(document).ready( function () {
 
 さあ、[前回の記事](https://lostinbitcoin.jp/how-to/coldcardguide01/)を読んでCOLDCARD購入の意志は固まりましたでしょうか。
 
-昨今の円安の影響もあって配送料込みで3万円もするハードウェア・ウォレットの購入は、決して安い買い物ではありません。買って後悔することがないよう、COLDCARDが本当に今の自分に必要なものかどうか、事前チェックリストを用意しました。あなたの回答がひとつでも”YES”に当てはまる方は、悪いことは言いません。これまでのことは全て忘れてLedgerかTrezorを買った方がより幸せになれると思います。
+昨今の円安の影響もあって配送料込みで3万円もする[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)の購入は、決して安い買い物ではありません。買って後悔することがないよう、COLDCARDが本当に今の自分に必要なものかどうか、事前チェックリストを用意しました。あなたの回答がひとつでも”YES”に当てはまる方は、悪いことは言いません。これまでのことは全て忘れてLedgerかTrezorを買った方がより幸せになれると思います。
 
 ☑暗号通貨は自分で管理するより取引所に預けていた方が安全だ。
 ☑今話題のNFTを購入、安全に保管したい。
 ☑今話題のDAOトークンを購入、新時代のガバナンスに参加したい。
 ☑ちょっと前に話題だったDeFiでイールドファーミングしたい。
 ☑その前に話題だったICOで今なお一獲千金を狙いたい。
-☑次なるビットコインは○○だ。（○○がビットコイン以外の場合はYES）
+☑次なる[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)は○○だ。（○○がビットコイン以外の場合はYES）
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「これは学ぶべき必要が来た時に学ぶべきレッスン。得られる結果は脆弱なシステムに競合する堅牢なシステム。インフレによって価値が下がる通貨と下がらない通貨。検閲される通貨とされない通貨。何人かの人は正しい選択をし何人かはしない。それで良いのだ。誰もが必要なわけではまだないのだから。」 <a href="https://t.co/wrUOoamxqq">pic.twitter.com/wrUOoamxqq</a></p>&mdash; aantonop_quotes (@AantonopQuotes) <a href="https://twitter.com/AantonopQuotes/status/1326045271101370368?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote>
 
 COLDCARDはビットコインしか保管できないハードコアなハードウェア・ウォレットであるのをお忘れなく。
 
-![ColdcardGuide02_1.png](/_images/ColdcardGuide02_1.png)
+![](/_images/ColdcardGuide02_1.png)
 *©️[kraftwerk](https://kraftwerk.com/)*
 
 ロボットのようなレーザービームを目から発しながら「ボクハ　ビットコインアイコウカ　デンタク　カタテニ」と迷いなく歌えるようになった方から順次、この先を読み進めてください。
@@ -79,9 +56,9 @@ COLDCARDはビットコインしか保管できないハードコアなハード
 
 ですので、今回のCOLDCARDの購入先は、[Coinkite Store](https://store.coinkite.com/store) @[https://store.coinkite.com/store](https://store.coinkite.com/store) からの一択となります。
 
-![ColdcardGuide02_2](/_images/ColdcardGuide02_2.png)
+![](/_images/ColdcardGuide02_2.png)
 
-![ColdcardGuide02_3](/_images/ColdcardGuide02_3.png)
+![](/_images/ColdcardGuide02_3.png)
 
 Coinkiteでは、時折お得に商品が買えるクーポンを配布している場合があります。購入時に何かお得なキャンペーンが行われていないか見逃さないようにチェックしましょう。
 
@@ -94,7 +71,7 @@ Coinkiteでは、時折お得に商品が買えるクーポンを配布してい
 
 “**Add to Cart”**（買い物カートに加える）をクリックします。
 
-![ColdcardGuide02_4](/_images/ColdcardGuide02_4.png)
+![](/_images/ColdcardGuide02_4.png)
 
 
 
@@ -102,11 +79,11 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 ここで注意事項ですが、COLDCARDはMK4バージョンからPCとの接続に**USB-Cケーブルが必要**になりました。（MK3はMicro-USBケーブル）
 
-![ColdcardGuide02_6](/_images/ColdcardGuide02_6.jpg)
+![](/_images/ColdcardGuide02_6.jpg)
 
 持っていない方は、ついでにここで買っておこうと下記の商品をカートに追加してしまうかもしれません。が、このケーブルはデータ転送ラインが排除されたCOLDCARDの起動のみに利用できる特殊なケーブルです。他の用途にも使いたい場合は、Amazonなどから普通のUSB-Cケーブルを購入してください。
 
-![ColdcardGuide02_7](/_images/ColdcardGuide02_7.png)
+![](/_images/ColdcardGuide02_7.png)
 
 一体、何だってそんな紛らわしい特殊なケーブルを？
 
@@ -114,19 +91,19 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 そのさらに上を行って「俺のかわいいCOLDCARDは、絶対にこの汚れたインターネットには繋ぎたくない！それはもう絶対にだ！」という強い決意をお持ちの方には、9V形電池を利用してCOLDCARDを起動できる**"COLDPOWER Adapter"**という製品もあります。
 
-![ColdcardGuide02_26](/_images/ColdcardGuide02_26.png)
+![](/_images/ColdcardGuide02_26.png)
 
 こうしたCOLDCARDを一切パソコンに繋がない、いわゆるエアギャップ運用を試してみたい方や、バックアップを簡易に行いたい方は、MicroSDカードも必要になります。ある程度の信頼性があればどこのものでもかまわないので、急いで一緒に買う必要はありません。
 
-![ColdcardGuide02_8](/_images/ColdcardGuide02_8.png)
+![](/_images/ColdcardGuide02_8.png)
 
 自分に必要なアイテムをカートに追加したなら、購入画面に進みましょう。
 
 画面、右上の買い物カートに商品が追加されているので**”Checkout Now”**（今すぐチェックアウト）をクリックして進めます。
 
-![ColdcardGuide02_5](/_images/ColdcardGuide02_5.png)
+![](/_images/ColdcardGuide02_5.png)
 
-![ColdcardGuide02_9](/_images/ColdcardGuide02_9.png)
+![](/_images/ColdcardGuide02_9.png)
 
 **メールアドレス**を入力。**お住いの国**を選択してください。
 **どうやってCoinkiteを知ったか**(How did you hear about us?)はご自由にお選びください。
@@ -152,17 +129,17 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 *プライバシーTip:個人情報とCOLDCARD購入履歴は極力結び付けない方がより安全です。配送先を勤務先の会社にする・私書箱を利用し偽名で受け取るなどの工夫で自分の身の安全と自身のプライバシーを守りましょう。 配送時の商品名は“ColdCard calculator”(ColdCard計算機)となっています。*
 
 
-![ColdcardGuide02_10](/_images/ColdcardGuide02_10.png)
+![](/_images/ColdcardGuide02_10.png)
 
 住所・氏名・電話番号の入力が終わったら**”Next Steps→”**(次のステップへ)を押して配送サービス選択画面に進みます。
 
-![ColdcardGuide02_11](/_images/ColdcardGuide02_11.png)
+![](/_images/ColdcardGuide02_11.png)
 
 適用可能なキャンペーンコードやギフトカードをお持ちの方は、**”Get a promo code to use?”**（プロモコードをお持ちですか？）欄にコピペして、チェックマークをクリックすれば、この時点で割引されます。
 
 配送サービスは、下記から選べます。追跡サービスなしの最安・郵便メール配送は、残念ながらクレジットカード払いはできません。ただし次のステップでビットコイン払いを選択すれば利用できます。
 
-![ColdcardGuide02_12](/_images/ColdcardGuide02_12.png)
+![](/_images/ColdcardGuide02_12.png)
 
 - **郵便メール（追跡サービスなし）**
 - **Fedex（追跡サービスあり・約7日間）**
@@ -171,7 +148,7 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 ---
 
-![ColdcardGuide02_13](/_images/ColdcardGuide02_13.png)
+![](/_images/ColdcardGuide02_13.png)
 
 > ビットコイン払いをご利用ください
 不正利用防止のため、**クレジット払いの際には追跡サービスを利用する必要**があります。追跡サービスありの別配送方法を選択するかビットコインでお支払いください。
@@ -180,13 +157,13 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 **“Credit Card”**（クレジットカード）を選択して次に進みましょう。
 
-![ColdcardGuide02_14](/_images/ColdcardGuide02_14.png)
+![](/_images/ColdcardGuide02_14.png)
 
 **カード番号、有効期限、CVC**をそれぞれ入力し**”Pay”**（支払う）ボタンをクリックします。
 
-![ColdcardGuide02_15](/_images/ColdcardGuide02_15.png)
+![](/_images/ColdcardGuide02_15.png)
 
-![ColdcardGuide02_16](/_images/ColdcardGuide02_16.png)
+![](/_images/ColdcardGuide02_16.png)
 
 *僕はMK4を既に購入済だったので、今回代わりにミニビットコイン時計を買いました。商品名・価格の相違は気にしないでね！*
 
@@ -194,7 +171,7 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 画面内のステータスも**”PAID”**（支払い済み）に変わっています。
 
-![ColdcardGuide02_17](/_images/ColdcardGuide02_17.png)
+![](/_images/ColdcardGuide02_17.png)
 
 > Coinkite Storeでのご注文及びお支払いありがとうございました！
 できるだけ迅速な処理を行っております。しかし需要によっては、商品を配送サービスに発送するまで3日～7日間ほどお時間を頂きます。～省略～この商品の配送用請求書No.はXXXXXXXX-XXXXXXXX（注文日の日付）です。商品が配送された際には、その旨メールでお知らせします。
@@ -204,9 +181,9 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 配送済みになると、登録したメールアドレス宛にもその旨、通知が届いているはずです。
 
-![ColdcardGuide02_18](/_images/ColdcardGuide02_18.png)
+![](/_images/ColdcardGuide02_18.png)
 
-![ColdcardGuide02_19](/_images/ColdcardGuide02_19.png)
+![](/_images/ColdcardGuide02_19.png)
 
 > グッドニュース！
 あなたのご注文は配送済みです。
@@ -222,7 +199,7 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 またこの世界に一人、COLDCARDユーザーが増えたことをビットコイナーのひとりとしてとても嬉しく思います。
 
-いよいよ次回からは、大事なビットコインをColdcardに移すための「COLDCARDセットアップ編」です。
+いよいよ次回からは、大事なビットコインをColdcardに移すための[「COLDCARDセットアップ編」](https://lostinbitcoin.jp/how-to/coldcardguide03/)です。
 
 ---
 
@@ -230,7 +207,7 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 Coinkiteはビットコインオンリーの製品を取り扱う会社、もちろん支払いにはビットコイン払いも選べます。
 
-残念ながら、ライトニング・ネットワークにはまだ対応しておらず、オンチェーンのみとなっていますが、前述の通りビットコインで支払うと下記のメリットがあるので、挑戦する価値はあるやもしれません。
+残念ながら、[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)にはまだ対応しておらず、[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/on_chain/)のみとなっていますが、前述の通りビットコインで支払うと下記のメリットがあるので、挑戦する価値はあるやもしれません。
 
 1. **クーポンの適用で５％オフで購入できる**
 2. **最安配送サービスを利用できる（ただし追跡サービスなし）**
@@ -241,40 +218,40 @@ Coinkiteはビットコインオンリーの製品を取り扱う会社、もち
 
 この段階で、プロモコード”CKBTC”をコピペして、☑チェックボタンをクリックすれば割引きが適用されます。
 
-![ColdcardGuide02_20](/_images/ColdcardGuide02_20.png)
+![](/_images/ColdcardGuide02_20.png)
 
-![ColdcardGuide02_21](/_images/ColdcardGuide02_21.png)
+![](/_images/ColdcardGuide02_21.png)
 
 ビットコイン払いでは、最安（11.36米ドル）の配送サービスである**”Postal mail with no tracking”**（追跡サービスなしの郵便メール）の選択が可能になります。商品が届くまで気長に待てる、トラブル時にも自分で対応できる方にはお得なオプションです。
 
 次の**”Payment”**（支払い）画面で**”Bitcoin”**を選択します。
 
-![ColdcardGuide02_22](/_images/ColdcardGuide02_22.png)
+![](/_images/ColdcardGuide02_22.png)
 
-![ColdcardGuide02_23](/_images/ColdcardGuide02_23.png)
+![](/_images/ColdcardGuide02_23.png)
 
-お使いのモバイルウォレットなどでQRコードを読み込むと、宛先アドレスおよび支払い価格が表示されるはずです。確認後、支払いしましょう。
+お使いのモバイル[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)などでQRコードを読み込むと、宛先[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)および支払い価格が表示されるはずです。確認後、支払いしましょう。
 
 この支払い情報およびQRコードは30分で無効になります。
 
-ご存じのように、ビットコインのオンチェーン支払いは、マイナーによってブロックに取り込まれるまで平均10分かかります。場合によっては30分以上かかる場合もあるため、自分の支払いが通ったのか心配になるかもしれませんが、実際にはビットコインネットワークに支払い情報が伝わった時点で、受付済みになるので、それほどナーバスになる必要はありません。
+ご存じのように、ビットコインのオンチェーン支払いは、マイナーによって[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)に取り込まれるまで平均10分かかります。場合によっては30分以上かかる場合もあるため、自分の支払いが通ったのか心配になるかもしれませんが、実際にはビットコインネットワークに支払い情報が伝わった時点で、受付済みになるので、それほどナーバスになる必要はありません。
 
 登録時のメールにも、その旨、案内が届くはずです。
 
-![ColdcardGuide02_24](/_images/ColdcardGuide02_24.png)
+![](/_images/ColdcardGuide02_24.png)
 
-![ColdcardGuide02_25](/_images/ColdcardGuide02_25.png)
+![](/_images/ColdcardGuide02_25.png)
 
 > Coinkite Storeでのご注文およびお支払いありがとうございました！
 Bitcoinでの支払いをパブリックネットワークで確認済みです。現在、適切な数のネットワーク・コンファメーションを待っています。
 支払いが完了次第、別途メールにてお知らせします。
 >
 
-マイナーによって、あなたの支払いトランザクションがブロックに取り込まれ、５コンファメーションほど待てば、支払いが確実に承認され、あとは商品が届くのを待つだけの状態になります。
+マイナーによって、あなたの支払い[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)がブロックに取り込まれ、５コンファメーションほど待てば、支払いが確実に[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/confirmation/)され、あとは商品が届くのを待つだけの状態になります。
 
 送金後表示されるトランザクション番号と注文番号があれば、不安な点があっても後ほど問い合わせが可能です。
 
 いずれにしろ、ビットコインの安心格安爆速決済であるライトニング・ネットワークへの早期対応が待たれますね。
 
 ***
-[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
+[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
