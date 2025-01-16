@@ -11,33 +11,10 @@ taxonomy:
         - tech
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
+## ビットコインの非中央集権性に関わるフルノードとは？
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-###ビットコインの非中央集権性に関わるフルノードとは？
+<div><button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Coin_and_Peace">@Coin_and_Peace</a></div>
+<div><button class="zap-button" data-npub="npub1km5zgre7f5vxr6jgf32x055xlk3gjwrj5s4aedeyjz6gr8l2yw0s8mmmlp" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/techmedia_think">@techmedia_think</a></div>
 
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識、ノードを運用してみよう |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  | 12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -46,7 +23,7 @@ $(document).ready( function () {
 
 ビットコインのフルノードの役割、重要性、フルノードと軽量ノードの違い、ノードの運用方法と費用などを解説。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YdAu3xJtlhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YdAu3xJtlhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ### 著作権等について
 [利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

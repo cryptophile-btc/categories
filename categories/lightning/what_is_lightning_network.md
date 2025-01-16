@@ -8,32 +8,9 @@ taxonomy:
         - tech
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
+## ライトニングネットワークが解決するビットコインが抱える問題とは？ライトニングネットワークとビットコインネットワークの関係は？
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-###ライトニングネットワークが解決するビットコインが抱える問題とは？ライトニングネットワークとビットコインネットワークの関係は？
+<div><button class="zap-button" data-npub="npub18ukszjp29n8846qekqlccf4v252hat28seef9a3d2ur20zm49q3qdtnycl" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Nayuta_ja">@Nayuta_ja</a></div>
 
 |  ![Category](/_images/category.png)  |  ライトニング |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  3分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -42,7 +19,7 @@ $(document).ready( function () {
 
 ライトニングネットワークはビットコインというベースレイヤーの上に構築されたセカンドレイヤー。その仕組みとメリットを解説。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/j8PGg-cttxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/j8PGg-cttxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 ### 著作権等について
